@@ -1,0 +1,13 @@
+
+
+# JumpcloudGoogleEmmFeature
+
+## Enum
+
+
+* `SOFTWARE_MANAGEMENT` (value: `"SOFTWARE_MANAGEMENT"`)
+
+* `ZERO_TOUCH_CUSTOMER_MANAGEMENT` (value: `"ZERO_TOUCH_CUSTOMER_MANAGEMENT"`)
+
+
+

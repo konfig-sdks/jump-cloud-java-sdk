@@ -1,0 +1,15 @@
+
+
+# JumpcloudGoogleEmmAllowPersonalUsage
+
+## Enum
+
+
+* `PERSONAL_USAGE_ALLOWED` (value: `"PERSONAL_USAGE_ALLOWED"`)
+
+* `PERSONAL_USAGE_DISALLOWED` (value: `"PERSONAL_USAGE_DISALLOWED"`)
+
+* `DEDICATED_DEVICE` (value: `"DEDICATED_DEVICE"`)
+
+
+
